@@ -1,6 +1,6 @@
 
 ![GitHub top language](https://img.shields.io/github/languages/top/Alisson-tech/automacao_email)
-![APM](https://img.shields.io/apm/l/automacao_email)
+![GitHub](https://img.shields.io/github/license/Alisson-tech/automacao_email)
 
 
 # automacao_email
